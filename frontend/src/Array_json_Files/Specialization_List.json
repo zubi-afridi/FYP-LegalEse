@@ -1,0 +1,21 @@
+[
+  {"id": 1, "label": "Corporate Law"},
+  {"id": 2, "label": "Criminal Law"},
+  {"id": 3, "label": "Family Law"},
+  {"id": 4, "label": "Constitutional Law"},
+  {"id": 5, "label": "Labor Law"},
+  {"id": 6, "label": "Tax Law"},
+  {"id": 7, "label": "Civil Law"},
+  {"id": 8, "label": "Property Law"},
+  {"id": 9, "label": "Islamic Law"},
+  {"id": 10, "label": "Banking Law"},
+  {"id": 11, "label": "Insurance Law"},
+  {"id": 12, "label": "Environmental Law"},
+  {"id": 13, "label": "Human Rights Law"},
+  {"id": 14, "label": "Media Law"},
+  {"id": 15, "label": "Health Law"},
+  {"id": 16, "label": "International Law"},
+  {"id": 17, "label": "Sport Law"},
+  {"id": 18, "label": "Entertainment Law"}
+]
+
